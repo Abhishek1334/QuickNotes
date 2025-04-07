@@ -1,2 +1,4 @@
-.vscode
-.env
+.vscode/
+server/.env
+
+server/node_module
