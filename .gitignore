@@ -1,4 +1,10 @@
 .vscode/
+
+.env
 server/.env
 
-server/node_module
+node_modules
+server/node_modules/
+
+build/
+dist/
